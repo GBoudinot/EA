@@ -1,0 +1,222 @@
+"0","rawfiles.directory<- file.path(""."")"
+"0","dxf_files<-iso_read_continuous_flow(rawfiles.directory,read_vendor_data_table = TRUE)"
+"2","Info: preparing to read 52 data file(s)...
+"
+"2","Info: reading file 1/52 './180621_Vanoosten/12807__empty_0.dxf' from cache...
+"
+"2","Info: reading file 2/52 './180621_Vanoosten/12814__empty_0.dxf' from cache...
+"
+"2","Info: reading file 3/52 './180621_Vanoosten/12815__Blank_0.dxf' from cache...
+"
+"2","Info: reading file 4/52 './180621_Vanoosten/12816__Blank_0.dxf' from cache...
+"
+"2","Info: reading file 5/52 './180621_Vanoosten/12817__L_glut_528.dxf' from cache...
+"
+"2","Info: reading file 6/52 './180621_Vanoosten/12818__LOS_38169.dxf' from cache...
+"
+"2","Info: reading file 7/52 './180621_Vanoosten/12819__Acet_#1_496.dxf' from cache...
+"
+"2","Info: reading file 8/52 './180621_Vanoosten/12820__L_glut_105.dxf' from cache...
+"
+"2","Info: reading file 9/52 './180621_Vanoosten/12821__L_glut_211.dxf' from cache...
+"
+"2","Info: reading file 10/52 './180621_Vanoosten/12822__L_glut_422.dxf' from cache...
+"
+"2","Info: reading file 11/52 './180621_Vanoosten/12823__L_glut_518.dxf' from cache...
+"
+"2","Info: reading file 12/52 './180621_Vanoosten/12824__L_glut_629.dxf' from cache...
+"
+"2","Info: reading file 13/52 './180621_Vanoosten/12825__L_glut_791.dxf' from cache...
+"
+"2","Info: reading file 14/52 './180621_Vanoosten/12826__L_glut_1049.dxf' from cache...
+"
+"2","Info: reading file 15/52 './180621_Vanoosten/12827__L_glut_1318.dxf' from cache...
+"
+"2","Info: reading file 16/52 './180621_Vanoosten/12828__L_glut_1571.dxf' from cache...
+"
+"2","Info: reading file 17/52 './180621_Vanoosten/12829__L_glut_2100.dxf' from cache...
+"
+"2","Info: reading file 18/52 './180621_Vanoosten/12830__LOS_38166.dxf' from cache...
+"
+"2","Info: reading file 19/52 './180621_Vanoosten/12831__L_glut_521.dxf' from cache...
+"
+"2","Info: reading file 20/52 './180621_Vanoosten/12832__blank_0.dxf' from cache...
+"
+"2","Info: reading file 21/52 './180621_Vanoosten/12833__SH1-OG05(Decalc)_40010.dxf' from cache...
+"
+"2","Info: reading file 22/52 './180621_Vanoosten/12834__SH1-OG15 (Decalc)_40080.dxf' from cache...
+"
+"2","Info: reading file 23/52 './180621_Vanoosten/12835__SH1-OG19 (Decalc)_40008.dxf' from cache...
+"
+"2","Info: reading file 24/52 './180621_Vanoosten/12836__SH1-OG05 (Decalc)_39990.dxf' from cache...
+"
+"2","Info: reading file 25/52 './180621_Vanoosten/12837__SH1-OG15 (Decalc)_40011.dxf' from cache...
+"
+"2","Info: reading file 26/52 './180621_Vanoosten/12838__SH1-OG19 (Decalc)_40060.dxf' from cache...
+"
+"2","Info: reading file 28/52 './180621_Vanoosten/12840__L_glut_529.dxf' from cache...
+"
+"2","Info: reading file 29/52 './180621_Vanoosten/12841__Acet_#1_496.dxf' from cache...
+"
+"2","Info: reading file 30/52 './180621_Vanoosten/12842__SH1-OG05 (Decalc)_40005.dxf' from cache...
+"
+"2","Info: reading file 31/52 './180621_Vanoosten/12843__SH1-OG15 (Decalc)_40067.dxf' from cache...
+"
+"2","Info: reading file 32/52 './180621_Vanoosten/12844__SH1-OG19 (Decalc)_40032 think it is an empty.dxf' from cache...
+"
+"2","Info: reading file 35/52 './180621_Vanoosten/12847__SH1-OG024 (kerogen)_40085.dxf' from cache...
+"
+"2","Info: reading file 36/52 './180621_Vanoosten/12848__LOS_38169.dxf' from cache...
+"
+"2","Info: reading file 37/52 './180621_Vanoosten/12849__L_glut_520.dxf' from cache...
+"
+"2","Info: reading file 38/52 './180621_Vanoosten/12850__blank_0.dxf' from cache...
+"
+"2","Info: reading file 39/52 './180621_Vanoosten/12851__SH1-OG15 (w@calc)_40074.dxf' from cache...
+"
+"2","Info: reading file 40/52 './180621_Vanoosten/12852__SH1-OG15 (w@calc)_40036.dxf' from cache...
+"
+"2","Info: reading file 41/52 './180621_Vanoosten/12853__SH1-OG15 (w@calc)_39985.dxf' from cache...
+"
+"2","Info: reading file 42/52 './180621_Vanoosten/12854__SH1-OG05 (w@calc)_40000.dxf' from cache...
+"
+"2","Info: reading file 43/52 './180621_Vanoosten/12855__SH1-OG05 (w@calc)_40022.dxf' from cache...
+"
+"2","Info: reading file 44/52 './180621_Vanoosten/12856__SH1-OG05 (w@calc)_40047.dxf' from cache...
+"
+"2","Info: reading file 47/52 './180621_Vanoosten/12859__SH1-OG19 (w@calc)_40046.dxf' from cache...
+"
+"2","Info: reading file 48/52 './180621_Vanoosten/12860__SH1-OG19 (w@calc)_40012.dxf' from cache...
+"
+"2","Info: reading file 49/52 './180621_Vanoosten/12861__SH1-OG19 (w@calc)_40039.dxf' from cache...
+"
+"2","Info: reading file 50/52 './180621_Vanoosten/12862__L_glut_526.dxf' from cache...
+"
+"2","Info: reading file 51/52 './180621_Vanoosten/12863__Acet_ #1_504.dxf' from cache...
+"
+"2","Info: reading file 52/52 './180621_Vanoosten/12864__LOS_38173.dxf' from cache...
+"
+"0","session<-""V10"""
+"0","dxf_files <- iso_omit_files_with_problems(dxf_files)"
+"0","rawinfo <- dxf_files %>% "
+"0","  iso_get_file_info() %>% "
+"0","  # pick favorite file info fields"
+"0","  select(file_id, `Analysis`,`Row`, `Identifier 1`, `Identifier 2`,`Comment`, `Preparation`, `file_datetime`,`Method`) %>% "
+"0","  data.frame()"
+"0","colnames(rawinfo)[colnames(rawinfo)==""Row""] <- ""row"""
+"0","colnames(rawinfo)[colnames(rawinfo)==""Identifier.1""] <- ""Identifier1"""
+"0","colnames(rawinfo)[colnames(rawinfo)==""Identifier.2""] <- ""mass"""
+"0","colnames(rawinfo)[colnames(rawinfo)==""Comment""] <- ""carousel"""
+"0","colnames(rawinfo)[colnames(rawinfo)==""Preparation""] <- ""type"""
+"0","#saveRDS(dxf_files, file = ""help.rds"")"
+"0","  ratiodata <- obs %>%"
+"0","  iso_get_vendor_data_table(with_units = FALSE)%>%"
+"0","  select(`Nr.`, `Start`, `End`, `Intensity 28`, `Intensity 44`,`d 29N2/28N2`,`d 13C/12C`)"
+"0","  fileid = obs$file_info$file_id"
+"0","  ratiodata %>% mutate(file_id = fileid)"
+"0","}"
+"0","rawratio <- bind_rows(lapply(dxf_files, getratio))"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"2","Info: aggregating vendor data table without units from 1 data file(s)
+"
+"0","#rawratio <- subset(rawratio, Start >115)"
+"0","#rawratio <- subset(rawratio, Start <350)"
+"0","colnames(rawratio)[colnames(rawratio)==""Intensity 28""] <- ""area28"""
+"0","colnames(rawratio)[colnames(rawratio)==""Intensity 44""] <- ""area44"""
+"0","colnames(rawratio)[colnames(rawratio)==""d 13C/12C""] <- ""d13C"""
+"0","raw.data<-full_join(rawinfo, rawratio, by = ""file_id"" )"
+"0","raw.data<- transform(raw.data, ""row"" = as.numeric(`row`))"
+"0","raw.data<- transform(raw.data, ""mass"" = as.numeric(`mass`))"
+"0","raw.data<- transform(raw.data, ""Analysis"" = as.numeric(`Analysis`))"
+"0","raw.dataCarbon <- raw.data[!(is.na(raw.data$`d13C`) | raw.data$`d13C`==""""), ]"
+"0","raw.dataCarbon <- subset(raw.dataCarbon, Start >115)"
+"0","raw.dataCarbon <- subset(raw.dataCarbon, Start <350)"
+"0","raw.dataN <- raw.data[!(is.na(raw.data$`d29N`) | raw.data$`d29N`==""""), ]"
+"0","raw.dataN <- subset(raw.dataN, Start >80)"
+"0","raw.dataN <- subset(raw.dataN, Start <115)"
+"0","data<-raw.dataCarbon"

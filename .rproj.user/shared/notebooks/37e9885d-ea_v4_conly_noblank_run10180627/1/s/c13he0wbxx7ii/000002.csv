@@ -1,0 +1,4 @@
+"0","#devtools::install_github(""KopfLab/isoreader"")"
+"2","Error in names(frame) <- `*vtmp*` : names() applied to a non-vector
+"
+"0","#devtools::install_github(""cubessil/isoprocessCUBES"")"

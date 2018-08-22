@@ -1,0 +1,4 @@
+"0","ggplotly(d13C.stds)"
+"2","We recommend that you use the dev version of ggplot2 with `ggplotly()`
+Install it with: `devtools::install_github('hadley/ggplot2')`
+"
